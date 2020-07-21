@@ -1,4 +1,4 @@
-package hackone;
+package packageone;
 
 public class OddEvenThread {
 

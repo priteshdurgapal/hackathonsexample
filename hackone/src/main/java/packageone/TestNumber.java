@@ -1,4 +1,4 @@
-package hackone;
+package packageone;
 
 	import java.io.BufferedReader;
 	import java.io.InputStreamReader;
